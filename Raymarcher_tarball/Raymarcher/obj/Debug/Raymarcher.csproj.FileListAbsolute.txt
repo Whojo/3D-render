@@ -1,0 +1,6 @@
+C:\Users\Guillaume\Documents\Prog\csharp-tp13-guillaume1.thomas\Raymarcher_tarball\Raymarcher\bin\Debug\Raymarcher.exe
+C:\Users\Guillaume\Documents\Prog\csharp-tp13-guillaume1.thomas\Raymarcher_tarball\Raymarcher\bin\Debug\Raymarcher.pdb
+C:\Users\Guillaume\Documents\Prog\csharp-tp13-guillaume1.thomas\Raymarcher_tarball\Raymarcher\obj\Debug\Raymarcher.exe
+C:\Users\Guillaume\Documents\Prog\csharp-tp13-guillaume1.thomas\Raymarcher_tarball\Raymarcher\obj\Debug\Raymarcher.pdb
+C:\Users\Guillaume\Documents\Prog\csharp-tp13-guillaume1.thomas\Raymarcher_tarball\Raymarcher\obj\Debug\Raymarcher.csprojAssemblyReference.cache
+C:\Users\Guillaume\Documents\Prog\csharp-tp13-guillaume1.thomas\Raymarcher_tarball\Raymarcher\obj\Debug\Raymarcher.csproj.CoreCompileInputs.cache
